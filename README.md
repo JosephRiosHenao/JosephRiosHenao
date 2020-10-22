@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/header.png" alt="SystemGlitch" width="100%"/>
+    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/header.png" alt="Joseph Rios Henao" width="100%"/>
 </div>
 
 I am a passionate developer and architect, always looking for improvement. I believe open-source software is a fantastic way of benefiting from the skills and experience of each individual in order to produce better, faster and stronger code. Everything must be documented, tested and linted!
