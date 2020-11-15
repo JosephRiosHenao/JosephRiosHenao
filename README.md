@@ -8,4 +8,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![ILove](https://img.shields.io/badge/-I🤍BlackColor-black?style=flat-square&logo=🤍)
 
-![Joseph Github Stats](https://github-readme-stats.vercel.app/api?username=JosephRiosHenao&show_icons=true&theme=radical)
+![Joseph Github Stats](https://github-readme-stats.vercel.app/api?username=JosephRiosHenao&show_icons=true&theme=gotham)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephRiosHenao&hide=javascript,html&show_icons=true&theme=gotham)](https://github.com/JosephRiosHenao/github-readme-stats&show_icons=true)
