@@ -16,10 +16,10 @@ My name is Joseph Rios Henao, I form Cali/Colombia, I have 15 years old, I am st
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![ILove](https://img.shields.io/badge/-I🤍BlackColor-black?style=flat-square&logo=🤍)
 
-<a href="https://github.com/JosephRiosHenao/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JosephRiosHenao&show_icons=true&theme=gotham"/>
-</a>
 
-<a href="https://github.com/JosephRiosHenao/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephRiosHenao&layout=compact&show_icons=true&theme=gotham"/>
-</a>
+<br/>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JosephRiosHenao&hide_border=true&show_icons=true&theme=gotham"/></div>
+<div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JosephRiosHenao&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D"/></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephRiosHenao&hide_border=true&layout=compact&show_icons=true&theme=gotham"/></div>
+<br/>
+
