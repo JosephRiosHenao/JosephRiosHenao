@@ -7,7 +7,7 @@
 
 # Hey there! :wave::smiley:
 
-My name is Joseph Rios Henao, I form Cali/Colombia, I have 15 years old, I am study in Comfandi Miraflores in grade 10th
+My name is Joseph Rios Henao, I form Cali/Colombia, I have 17 years old
 
 ![Java](https://img.shields.io/badge/-Java(JDK8)-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
